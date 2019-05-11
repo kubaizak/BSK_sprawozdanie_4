@@ -1,0 +1,58 @@
+Poczatki
+Wyszukiwarki nie zawsze wyglądały jak dziś i nierzadko trzebabyło włożyć wiele wysiłku aby odnaleźć interesujące nas i ciekawe materiały. Nie istniały bowiem zaawansowane algorytmy, które w mgnieniu oka potrafiły wyszukać miliony stron tematycznych. Po pierwsze stron WWW nie było w siecie tak dużo jak jest obecnie.
+
+
+IDEA
+zrodziła się przed WWII (lata 30).
+
+Wizja systemu do:
+
+gromadzenia
+organizowania
+udostepniania
+zainteresowanym zebranej wiedzy
+
+Jeden z pierwszych przedstawicieli był Belg Paul Otlet (idea prohipertekstu) - dostępna wiedza podzielona na jak najmniejsze fragmenty. (definicje, porady, rozdzialy książek, artykuly)
+
+Informacje miały być połączone za pomocą hiperłączy w postaci specjalnie opisanych kart, aktualizowanych codziennie w katalogach - zrosziła się w latach 30tych
+
+Ciekawostka
+angielski pisarz Herbert George Wells w eseju "The Brain Organization of the Modern World" przestawił ideę systemu katalogowania za pomocą mikrofilmów - prekursor YouTube ;)
+
+Projekt Memex
+Uważany za pierwszą wyszukiwarkę - stworzony przez amerykańskiego inżyniera Vennevara Busha (1945) - prekursor idei sieci komputerowych i pomysłodawca maszyny służacej do wsyszukiwania i przechowywania rozmaitych informacji za pomocą hipertekstu.
+
+Urządzenie "Memex" zbudowane z dwóch ekranów i zbioru mikrofilmów, umożliwiały wyświetlanie powiązanych ze sobą dokumentów.
+
+W koncepcji autora maszyna miała odnajdować interesujące słowa kluczowe na zasadzie skojarzeń.
+
+Projekt nie został jednak zrealizowany - jednak Vannevar Bust został okrzyknięty prekursorem idei wyszukiwarki internetowej, a jego pracą inspirowali się kolejni naukowcy i powstawały bardziej zaawansoawne rozwiązania technologiczne np ARPANET i World Wide Web
+
+
+World Wide Web
+1989 pierwsza sieć dokumentów hiperstekstowych (kryjące się pod nazwa World Wide Web_ - twórca Tim Berners-Lee i Robert Cailliau.
+
+Pracował on w CERN'ie i był to 1989 największy węzeł internetowy w Europie. Pierwszy serwer webowy - httpd HyperText Transfer Protocol daemon
+
+Tim Berners-Lee "I just had to take the hypertext idea and connect it to the TCP and DNS ideas and — ta-da! — the World Wide Web"
+
+
+
+1990 Time Berners-Lee sworzył HTML - hipertekstowy język znaczników i wraz z nim 1 stronę internetową - bardzo ogranioczne np. przez brak przeglądarek
+
+
+
+1991 - pierwsza strona http://info.cern.ch/ 06.08.1991 zaweirała informacje czym World Wide Web jest, jak ktoś może stać się posiadaczem przeglądarki i ja skonfigurować web server. To także pierwszy "Web directory" - prowadził on spis stron internetowych 
+
+
+
+1994 Berners-Lee założył World Wide Web Consortium (W3C) - Massachusetts Institute of Technology
+
+
+Archie
+od Archives (1990 Peter J. Deutsch i Alan Emtage) - odnajdywanie plików na FTP. Przez wielu uważana za pierwszą wyszukiwarkę. Na tamte czasy była to rewolucja, tym bardziej że sam miał znacznie większą popularność niż teraz - ustąpił miejsca serwisom magazynującym pliki (Rapidshare i Megaupload).
+
+Archie tworzyło bazę danych po nazwach plików na serwerach FTP
+
+
+DUPA :)
